@@ -77,13 +77,13 @@ Creado por: **V. D. Betancourt**
     - [Algoritmos Notebook 1](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO1/GH_Algoritmos_01.ipynb)
 
 - **Algoritmos 2**
-    - [Algoritmos Notebook 2]()
+    - [Algoritmos Notebook 2](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO2/GH_Algoritmos_02.ipynb)
 
 - **Algoritmos 3**
-    - [Algoritmos Notebook 3]()
+    - [Algoritmos Notebook 3](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO3/GH_Algoritmos_03.ipynb)
 
 - **Algoritmos 4**
-    - [Algoritmos Notebook 4]()
+    - [Algoritmos Notebook 4](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO4/GH_Algoritmos_04.ipynb)
 
 
 </details>
