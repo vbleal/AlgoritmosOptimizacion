@@ -25,7 +25,7 @@ Notebook Created by:
 6. Algoritmo de Colonia de Hormigas
 
 
-![]()
+![](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/Imag/Imag_Algoritmos_3.png)
 
 Créditos: Imagen de []()
    
@@ -43,7 +43,7 @@ Créditos: Imagen de []()
 
 Véase el Notebook:
 
-- []()
+- [Algoritmos Notebook 3](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO3/GH_Algoritmos_03.ipynb)
 
 </details>
 
@@ -51,10 +51,6 @@ Véase el Notebook:
 
 
 
-
-
-
-----------------
 
 
 
