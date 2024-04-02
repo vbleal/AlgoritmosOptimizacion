@@ -36,7 +36,7 @@ Créditos: Imagen generada con DALL-E.
 
 Véase el Notebook:
 
-- []()
+- [GH_Algoritmos_01.ipynb](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO1/GH_Algoritmos_01.ipynb)
 
 </details>
 
