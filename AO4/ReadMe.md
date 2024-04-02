@@ -25,3 +25,24 @@ Créditos: Imagen de []()
 
 
 
+
+## ㊙️ **Código**
+
+<details>
+    <summary> Expandir </summary>
+
+Véase el Notebook:
+
+- []()
+
+</details>
+
+----------------
+
+
+
+
+
+
+
+
