@@ -12,7 +12,9 @@ Notebook Created by:
 <details>
     <summary> Expandir </summary>
 
-1. 
+    - Desarrollar, modelar y analizar algoritmos según diferentes técnicas para resolver el problema de organizar los horarios de partidos de La Liga.
+
+
 
 ![]()
 
