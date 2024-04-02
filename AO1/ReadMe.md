@@ -45,7 +45,4 @@ Véase el Notebook:
 
 
 
-</details>
-
-----------------
 
