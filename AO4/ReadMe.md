@@ -33,7 +33,7 @@ Créditos: Imagen de []()
 
 Véase el Notebook:
 
-- []()
+- [Algoritmos Notebook 4](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO1/GH_Algoritmos_04.ipynb)
 
 </details>
 
