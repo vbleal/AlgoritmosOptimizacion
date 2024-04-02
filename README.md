@@ -74,7 +74,7 @@ Creado por: **V. D. Betancourt**
     <summary> Expandir </summary>
 
 - **Algoritmos 1**
-    - [Algoritmos Notebook 1]()
+    - [Algoritmos Notebook 1](https://github.com/vbleal/AlgoritmosOptimizacion/blob/main/AO1/GH_Algoritmos_01.ipynb)
 
 - **Algoritmos 2**
     - [Algoritmos Notebook 2]()
